@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1560142350 source:d:\#desktop\_proramming\mpi\#pp_lab\#send\components_graf\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
+1560142517 source:d:\_workplace\cv\c++\components_graf\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
